@@ -1,0 +1,21 @@
+balanced array by removing one element
+https://www.geeksforgeeks.org/count-ways-to-make-sum-of-odd-and-even-indexed-elements-equal-by-removing-an-array-element/
+https://api.mangadex.org/docs/swagger.html#/Manga/get-manga-random
+
+https://www.youtube.com/watch?v=n9DmdAwUbxc
+https://www.freecodecamp.org/news/build-a-search-filter-using-react-and-react-hooks/
+https://www.youtube.com/watch?v=ZoayCCDHFiI
+
+https://stackoverflow.com/questions/67059131/in-mongodb-react-what-is-the-best-practice-for-filtering-data
+https://stackoverflow.com/questions/56785628/building-search-filter-using-reactjs-and-node-js
+
+https://tailwindcss.com/docs/guides/vite
+https://vitejs.dev/
+https://github.com/jensen/ui-workshop/tree/main/part2
+
+https://www.youtube.com/watch?v=n9DmdAwUbxc
+https://www.freecodecamp.org/news/build-a-search-filter-using-react-and-react-hooks/
+https://www.youtube.com/watch?v=ZoayCCDHFiI
+
+https://stackoverflow.com/questions/67059131/in-mongodb-react-what-is-the-best-practice-for-filtering-data
+https://stackoverflow.com/questions/56785628/building-search-filter-using-reactjs-and-node-js
